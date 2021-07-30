@@ -1,4 +1,4 @@
-**Physicist, chemist, junior dev and other stuff**
+# Physicist, chemist, junior dev and other stuff
 
 I’m Geovani Dias. Working as Chemistry and Physics since 2011, I've decide to learn coding as a profession change.
 
