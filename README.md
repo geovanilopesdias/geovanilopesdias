@@ -14,7 +14,7 @@ As a Brazilian teacher, the scripts written for educational purposes has inputs 
 
 **1. [Entropy coins](https://github.com/geovanilopesdias/entropy_coins)**: My first personal challenge. Written for educational purposes, it "flips" a certain number of coins, a certain numbers of times, outputting how many times they all equally fall on.
 
-**2. [Cacheta (Card Game)]()**: My second personal challenge. It runs Cacheta, a Brazilian card game (also known as Pife in the South). I could write methods for (I) generate n decks, (II) shuffle 'em, (III) deal the cards and (IV) detect and organize one kind of "trinca" (a specific type of three cards set), but not the other.
+**2. [Cacheta (Card Game)]()**: My second personal challenge. It runs Cacheta, a Brazilian card game (also known as Pife in the South). I could write methods for (I) generate n decks, (II) shuffle 'em, (III) deal the cards and (IV) detect and organize "trincas" (types of three cards set) as well as the end game.
 
 **3. [URM Exercise Generator](https://github.com/geovanilopesdias/urm_exercise_generator)**: Written for Physics teaching. It generates an inputtable number of URM (aka Uniform Rectlinear Motion) exercises (in Portuguese) creating or editing the result in a .txt file; its later line contains all the answers (with the value and unit require on them). The exercise object, unknown value, data and units are all randomly generated.
 
