@@ -1,6 +1,6 @@
-# Physicist, Chemist and Junior Developer
+# Physicist, Chemist and Amateur Developer
 
-I've been Working as Chemistry and Physics teacher since 2011, but since 2020 I've decide to learn how to code as a professional change.
+I've been Working as Chemistry and Physics teacher since 2011, but since 2020 I've decide to learn how to code as a professional change/challenge.
 
 I started to learn coding in 2020, with online courses for Python OOP, mainly [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2) and MIT's [Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA). In 2021, I learned Java OOP and MySQL, aiming to develop for mobile devices. Currently, I'm learning ApachePOI for an open source project as well as the basics of HTML5 technology. I'm also studying algorithms (MIT Cohen et al.) and Martin's Clean Code. In 2022, started to develop an audacious application: PrExGen, a system that generates problem and exercises (mainly for Math, Physics and Chemistry). For that, I begin to learn HTML5 and are heading to study JSP, to properly integrate Java and HTML.
 
